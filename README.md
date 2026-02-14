@@ -14,7 +14,7 @@ Appassionato di logica e automazione, sto costruendo le mie basi nel mondo dello
 
 ### 📂 Progetti in evidenza
 * [**Autodidatto**](https://github.com/mrcristian2009/Autodidatto) - La mia raccolta di script Python: dai registri elettronici ai tutor per la spesa intelligente.
-* **Lab-TechInfo** - Esercitazioni avanzate sulla gestione dei File System e automazione via terminale.
+      * **Lab-TechInfo**(https://github.com/mrcristian2009/Esercizi-CMD.git)- Esercitazioni avanzate sulla gestione dei File System e automazione via terminale.
 
 ---
 
