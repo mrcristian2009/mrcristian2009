@@ -27,5 +27,5 @@ Appassionato di logica e automazione, sto costruendo le mie basi nel mondo dello
 
 ### 📫 Come trovarmi
 * **GitHub:** [@mrcristian2009](https://github.com/mrcristian2009)
-* **Stato attuale:** 📚 Studiando all'ITIS per diventare un professionista del settore.
+
 
