@@ -39,3 +39,5 @@ Appassionato di logica e automazione, sto costruendo le mie basi nel mondo dello
 ### 📫 Come trovarmi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mcncrst) 
 [![Website](https://img.shields.io/badge/Portfolio-Vercel-black?style=flat&logo=vercel)](https://mrcristian.vercel.app)
+### 🐍 My Contributions Snake
+![Snake animation](https://github.com/mrcristian2009/mrcristian2009/blob/output/github-contribution-grid-snake-dark.svg)
