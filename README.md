@@ -37,5 +37,5 @@ Appassionato di logica e automazione, sto costruendo le mie basi nel mondo dello
 ---
 
 ### 📫 Come trovarmi
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mrcristian2009) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mcncrst) 
 [![Website](https://img.shields.io/badge/Portfolio-Vercel-black?style=flat&logo=vercel)](https://mrcristian.vercel.app)
