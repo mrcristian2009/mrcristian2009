@@ -5,7 +5,7 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di **Informatica e Telecomun
 ---
 
 ## 🎓 Formazione & Background
-- **2025 - Presente:** Studente in **Informatica e Telecomunicazioni** presso l'**ITIS Mario Delpozzo**, Cuneo, Italia[span_0](start_span)[span_0](end_span).
+- **2025 - Presente:** Studente in **Informatica e Telecomunicazioni** presso l'**ITIS Mario Delpozzo**, Cuneo, Italia
 
 ---
 
@@ -59,7 +59,7 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di **Informatica e Telecomun
 
 ## 📫 Come Contattarmi:
 - **Sito Web / Portfolio:** [mrcristian.vercel.app](https://mrcristian.vercel.app)
-- **GitHub:** [@mrcristian](https://github.com/mrcristian)
+- **GitHub:** [@mrcristian](https://github.com/mrcristian2009)
 - **Instagram:** [@mcncrst](https://www.instagram.com/mcncrst)
 - **Email:** [Mocanurobertcristian@gmail.com](mailto:Mocanurobertcristian@gmail.com)
 
