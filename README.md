@@ -1,50 +1,58 @@
-# Ciao, sono Robert Cristian! 👋 (mrcristian2009)
+# Ciao, sono Robert Cristian 👋
 
-### 🚀 Studente ITIS Informatica & Aspirante Software Developer
-Appassionato di logica e automazione, sto costruendo le mie basi nel mondo dello sviluppo software combinando studi scolastici e sperimentazione autodidatta.
-
----
-
-### 🛠️ Tech Stack & Competenze
-
-**Linguaggi & Scripting**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Strumenti & Web**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Software Developer & Studente Informatica
+Appassionato di programmazione, architetture web ad alte prestazioni ed automazione di processi. Combino lo studio accademico con lo sviluppo continuo di progetti reali e soluzioni serverless.
 
 ---
 
-### 📊 GitHub Stats
-![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=mrcristian2009&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+### 🛠️ Tech Stack & Strumenti
+
+**Linguaggi & Front-End**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud, Database & Scripting**
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![Bash/Shell](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📂 Progetti in evidenza
-* **[Autodidatto](https://github.com/mrcristian2009/Autodidatto)** - Raccolta di script Python: dai registri elettronici ai tutor per la spesa intelligente.
-* **[Lab-TechInfo](https://github.com/mrcristian2009/Esercizi-CMD.git)** - Esercitazioni sull'automazione via terminale e gestione File System.
+### 📂 Progetti in Evidenza
+
+* 💼 **[Personal Portfolio](https://mrcristian.vercel.app)** - Il mio spazio web incentrato su performance ottimali (Lighthouse score focalizzato), animazioni fluide in WebGL (OGL) e dashboard di amministrazione sicura.
+* 🐍 **[Autodidatto](https://github.com/mrcristian/Autodidatto)** - Raccolta di script e automazioni in Python, inclusi tool di utility per la gestione dati.
+* 🖥️ **[Lab-TechInfo](https://github.com/mrcristian/Esercizi-CMD.git)** - Lab e script dedicati all'automazione via terminale e ottimizzazione dei File System.
 
 ---
 
-### 📈 Obiettivi 2026
-- [ ] Approfondire la gestione dei database (SQL)
-- [ ] Iniziare a studiare lo sviluppo Backend (Java o C#)
-- [ ] Creare il mio primo bot di automazione file avanzato
+### 📊 GitHub Real-time Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcristian&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=3b82f6&icon_color=3b82f6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcristian&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=3b82f6" height="150" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Contatti & Social
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mcncrst) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=flat&logo=vercel)](https://mrcristian.vercel.app)
+### 📈 Obiettivi di Sviluppo
+- [x] Implementare architetture serverless e database relazionali (Supabase)
+- [ ] Espandere lo stack backend strutturato (Node.js / Java)
+- [ ] Ottimizzare bot di automazione avanzati integrando API di terze parti
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/mrcristian2009/mrcristian2009/blob/output/github-contribution-grid-snake-dark.svg)
+### 📫 Contatti & Link
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrcristian.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://mrcristian.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-@mcncrst-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mcncrst)
 
 ---
+
+### 🐍 Contribution Graph Animato
+
+![Snake animation](https://raw.githubusercontent.com/mrcristian/mrcristian/output/github-contribution-grid-snake-dark.svg)
