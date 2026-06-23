@@ -1,55 +1,69 @@
-# Robert Cristian
+# 👋 Ciao, sono Robert Cristian Mocanu
 
-### Software Developer
-
-Sviluppatore orientato alla creazione di applicazioni web moderne, automazioni e architetture serverless.
-
-Attualmente studio Informatica e sviluppo progetti focalizzati su performance, esperienza utente e scalabilità, utilizzando tecnologie moderne come React, Python e Supabase.
+Benvenuto nel mio profilo GitHub! Sono uno studente di **Informatica e Telecomunicazioni** e **programmer**. Sono appassionato dello sviluppo di interfacce web minimaliste ad alte prestazioni, ottimizzazione delle performance (Lighthouse score) e integrazioni cloud/serverless (**Supabase** e automazioni **Telegram API**). Combino la logica di programmazione con un approccio pulito e un design ad alto contrasto per creare applicazioni web veloci e reattive.
 
 ---
 
-## Tech Stack
-
-### Front-End
-HTML • CSS • JavaScript • React
-
-### Back-End & Cloud
-Python • Supabase • Vercel
-
-### Tools
-Git • Bash • Linux
+## 🎓 Formazione & Background
+- **2025 - Presente:** Studente in **Informatica e Telecomunicazioni** presso l'**ITIS Mario Delpozzo**, Cuneo, Italia[span_0](start_span)[span_0](end_span).
 
 ---
 
-## Progetti Principali
+## 🚀 Progetti & Esperienze
+- **Sviluppo Web & UI/UX:** Studio e implementazione di interfacce animate e performanti utilizzando librerie WebGL leggere (OGL) e ottimizzazione mirata dei Core Web Vitals.
+- **Integrazione Cloud & Database:** Sperimentazione con architetture backend serverless utilizzando Supabase, database relazionali (SQL) e sistemi di notifica asincroni tramite bot ed API.
+- **Automazione & Scripting:** Sviluppo di script in Python per l'automazione di task sistemistici e manipolazione dati.
 
-### Personal Portfolio
-🌐 https://mrcristian.vercel.app
-
-Portfolio personale sviluppato con particolare attenzione alle performance Lighthouse, animazioni WebGL tramite OGL e dashboard amministrativa protetta.
-
-### Autodidatto
-🐍 https://github.com/mrcristian/Autodidatto
-
-Collezione di script Python, utility e automazioni per ottimizzare attività ripetitive e gestione dati.
-
-### Lab-TechInfo
-💻 https://github.com/mrcristian/Esercizi-CMD
-
-Laboratorio dedicato all'automazione da terminale, scripting Bash e gestione avanzata del file system.
+### Progetti in Evidenza:
+- 💼 **[Personal Portfolio](https://mrcristian.vercel.app)** (2026): Hub centrale delle mie attività, incentrato su performance estreme, animazioni fluide in WebGL, modulo di contatto isolato e una dashboard amministratore sicura per la gestione dei messaggi.
+- 🐍 **[Autodidatto](https://github.com/mrcristian/Autodidatto)**: Raccolta di script e utility in Python, inclusi tool per la gestione dati e automazioni logistiche.
+- 🖥️ **[Lab-TechInfo](https://github.com/mrcristian/Esercizi-CMD.git)**: Lab e script dedicati all'automazione via terminale e ottimizzazione dei File System.
 
 ---
 
-## Obiettivi Attuali
-
-- Approfondire Node.js e Java
-- Progettare architetture backend scalabili
-- Sviluppare sistemi di automazione integrati con API esterne
-- Contribuire a progetti open source
+## 🧠 Competenze Tecniche (Tech Stack)
+- **Linguaggi di Programmazione:** JavaScript, React, Python, Bash/Shell Scripting, HTML5, CSS3.
+- **Database & Cloud:** Supabase, PostgreSQL (SQL), Vercel Deployment.
+- **Strumenti di Sviluppo:** Git, GitHub, Terminale (CMD/Linux Bash), Chrome DevTools (Lighthouse Performance Tuning).
+- **Librerie Grafiche:** OGL (WebGL framework).
 
 ---
 
-## Contatti
+## 🌱 Studio & Apprendimento Continuo
+- **Sviluppo Front-End:** Approfondimento di pattern avanzati in React e ottimizzazione del rendering strutturale.
+- **Architetture Backend:** Studio dei sistemi relazionali complessi e logiche di autenticazione sicura.
+- **Sistemi Operativi:** Gestione del File System ed esercitazioni avanzate sull'automazione da terminale.
 
-- Portfolio: https://mrcristian.vercel.app
-- Instagram: https://instagram.com/mcncrst
+---
+
+## 💻 Competenze Digitali & Mindset
+- **Performance Optimization:** Massima attenzione ai tempi di caricamento per creare interfacce ultra-veloci e ottimizzate.
+- **Minimalist Design Language:** Sviluppo di interfacce pulite, ad alto contrasto e prive di elementi ridondanti, ispirate al design industriale moderno.
+- **Problem Solving:** Approccio analitico orientato a risolvere problemi logici complessi attraverso il codice.
+
+---
+
+## 🗣 Lingue:
+- **Italiano:** Madrelingua
+- **Rumeno:** Madrelingua / Bilingue
+- **Inglese:** Comprensione tecnica (Lettura/Scrittura documentazione e API)
+
+---
+
+## 🎮 Hobby & Interessi:
+- **Automotive Technology & Car Coding:** Appassionato di elettronica applicata ai veicoli (modifiche ECU, diagnostica e programmazione elettronica tramite tool dedicati).
+- **Competitive Gaming:** Competizione tattica in titoli mobile e PC, con forte focus sulle strategie e sul rendimento di squadra.
+- **Minimalist UI/UX Design:** Studio continuo di interfacce utente pulite e tipografia geometrica.
+
+---
+
+## 📫 Come Contattarmi:
+- **Sito Web / Portfolio:** [mrcristian.vercel.app](https://mrcristian.vercel.app)
+- **GitHub:** [@mrcristian](https://github.com/mrcristian)
+- **Instagram:** [@mcncrst](https://www.instagram.com/mcncrst)
+- **Email:** [Mocanurobertcristian@gmail.com](mailto:Mocanurobertcristian@gmail.com)
+
+---
+
+### 🐍 Contribution Graph Animato
+![Snake animation](https://raw.githubusercontent.com/mrcristian/mrcristian/output/github-contribution-grid-snake-dark.svg)
