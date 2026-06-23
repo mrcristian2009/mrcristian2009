@@ -64,6 +64,3 @@ Benvenuto nel mio profilo GitHub! Sono uno studente di **Informatica e Telecomun
 - **Email:** [Mocanurobertcristian@gmail.com](mailto:Mocanurobertcristian@gmail.com)
 
 ---
-
-### 🐍 Contribution Graph Animato
-![Snake animation](https://raw.githubusercontent.com/mrcristian/mrcristian/output/github-contribution-grid-snake-dark.svg)
